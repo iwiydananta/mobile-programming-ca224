@@ -1,6 +1,8 @@
-# myapp
+# KOMANG GEDE ADITYA ARYA WIDYANANTA(220040020)
 
-A new Flutter project.
+![Screenshot 2024-12-19 004932](https://github.com/user-attachments/assets/4a094512-c2de-4a76-9046-3af16e3265cc)
+
+
 
 ## Getting Started
 
